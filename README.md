@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @rfelipesilva
-- :warning: I try to format my repositories as:
-  * Type of application/solution
-  * Project name
-  * Type of technology/programming language used
 - 👀 I’m interested in data-based solutions where it's possible to work with:
   * Process automation
   * Data extraction
