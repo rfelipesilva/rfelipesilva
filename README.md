@@ -5,7 +5,6 @@
   * Data modeling
   * Machine learning
   * Data visualization
-- 💞️ I’m looking to collaborate on initiatives related to education
 - 📫 How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/renan-silva-16960313a/)
 
